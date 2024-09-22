@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PassJen-1.0.4:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PassJen_1_0_4_jar</output-path>
+    <root id="archive" name="PassJen.jar">
+      <element id="module-output" name="PassJen" />
+    </root>
+  </artifact>
+</component>
